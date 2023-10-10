@@ -27,6 +27,6 @@ Offering actionable insights to the Lending Club for better decision-making.
 
 
 **Contributors:**
-**Teja Gunupudi
+**Teja Gunupudi, 
 Shelly Goel
 **
